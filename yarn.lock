@@ -11226,10 +11226,10 @@ netlify-plugin-cypress@^1.3.9:
     ecstatic "4.1.4"
     got "10.7.0"
 
-netlify-plugin-is-website-vulnerable@^1.0.7:
-  version "1.0.7"
-  resolved "https://registry.yarnpkg.com/netlify-plugin-is-website-vulnerable/-/netlify-plugin-is-website-vulnerable-1.0.7.tgz#e1c92b4c0c6b79d2033b02418ac4793ada1731dc"
-  integrity sha512-Ka6qKg09A/J9KmwyzAV2XtGlWVtLdq9rsD6adAB7oUDmvtWmgc1Cc/l+CfELi/fi/C/MIk9X9n1Zpv2neuSW1w==
+netlify-plugin-is-website-vulnerable@^1.0.8:
+  version "1.0.8"
+  resolved "https://registry.yarnpkg.com/netlify-plugin-is-website-vulnerable/-/netlify-plugin-is-website-vulnerable-1.0.8.tgz#ae3d0fcf5417736d1e11236e9034d05d6a299c62"
+  integrity sha512-tyenXY/wZ+f2M9t9tDBEJhLRb5y9oeB0h15ApAG0sJFxwPnvdMlNMAYyfOyPl0M4x1IgVVx/t+nXIemtfzbbbw==
   dependencies:
     http-server "^0.12.3"
     is-website-vulnerable "^1.14.1"
