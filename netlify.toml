@@ -8,9 +8,6 @@
   YARN_FLAGS = "--no-ignore-optional"
   
 [[plugins]]
-package = "netlify-plugin-is-website-vulnerable"
-
-[[plugins]]
 package = "netlify-plugin-lighthouse"
   [plugins.inputs.thresholds]
     performance = 0.8
