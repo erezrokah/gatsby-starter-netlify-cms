@@ -8,7 +8,7 @@
   YARN_FLAGS = "--no-ignore-optional"
   
 [[plugins]]
-package = "netlify-plugin-lighthouse"
+package = "@netlify/plugin-lighthouse"
   [plugins.inputs.thresholds]
     performance = 0.6
     accessibility = 0.9
