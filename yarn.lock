@@ -2018,10 +2018,9 @@
     call-me-maybe "^1.0.1"
     glob-to-regexp "^0.3.0"
 
-"@netlify/plugin-lighthouse@^1.0.1":
+"@netlify/plugin-lighthouse@https://github.com/netlify-labs/netlify-plugin-lighthouse.git#feat/improve-messaging":
   version "1.0.1"
-  resolved "https://registry.yarnpkg.com/@netlify/plugin-lighthouse/-/plugin-lighthouse-1.0.1.tgz#9c2ce8c193a58772a4b1055e7d6a2778115fed8d"
-  integrity sha512-5Xvy+OAd72ITSQgE0oixw9g9bhigjsJnhw52mBwaVn0vDFG/PRrBkTVU8ibxE+X6xQekasEqMORAfccyQ+Ewkg==
+  resolved "https://github.com/netlify-labs/netlify-plugin-lighthouse.git#d84eba0e05a075a89733ec8e793b28e6fdad14e6"
   dependencies:
     chalk "^4.1.0"
     chrome-launcher "^0.13.2"
