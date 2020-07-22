@@ -15,6 +15,3 @@ package = "@netlify/plugin-lighthouse"
     best-practices = 1.0
     seo = 1.0
     pwa = 1.0
-
-[[plugins]]
-package = "netlify-build-plugin-perfbeacon"
