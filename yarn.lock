@@ -1811,10 +1811,10 @@
     call-me-maybe "^1.0.1"
     glob-to-regexp "^0.3.0"
 
-"@netlify/plugin-lighthouse@^1.2.2":
-  version "1.2.2"
-  resolved "https://registry.yarnpkg.com/@netlify/plugin-lighthouse/-/plugin-lighthouse-1.2.2.tgz#326c60d28ca970e0f221d7ed2c4d236db1f4fd54"
-  integrity sha512-avmZIlzkJP7Fg1Aa5j6CYVMcJOBZsYJ8OAcsZ8YBe8xWL60oSx+MQ18BCMwsp7nV9aNUmLfE9UbQ6Bys5EpJLg==
+"@netlify/plugin-lighthouse@^1.4.0":
+  version "1.4.0"
+  resolved "https://registry.yarnpkg.com/@netlify/plugin-lighthouse/-/plugin-lighthouse-1.4.0.tgz#7f16f0a74f7c5bb63da50766ad2a47aac44a36d9"
+  integrity sha512-pZ3iVtbrkjH7QAj5dRJwK1RkX8gL2q+zqSX+SnZIs012f5UFejrxjbxIsQJwwoygj3NvsNHwSIWZTCmqDcsNSg==
   dependencies:
     chalk "^4.1.0"
     chrome-launcher "^0.13.2"

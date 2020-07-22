@@ -10,11 +10,11 @@
 [[plugins]]
 package = "@netlify/plugin-lighthouse"
   [plugins.inputs.thresholds]
-    performance = 0.6
-    accessibility = 0.9
-    best-practices = 0.9
-    seo = 0.9
-    pwa = 0.5
+    performance = 1.0
+    accessibility = 1.0
+    best-practices = 1.0
+    seo = 1.0
+    pwa = 1.0
 
 [[plugins]]
 package = "netlify-build-plugin-perfbeacon"
