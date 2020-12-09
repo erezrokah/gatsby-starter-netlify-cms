@@ -8,6 +8,4 @@
   YARN_FLAGS = "--no-ignore-optional"
 
 [[plugins]]
-package = "netlify-plugin-nimbella"
-[plugins.inputs]
-functions = "functions" 
+package = "@netlify/plugin-sitemap"
